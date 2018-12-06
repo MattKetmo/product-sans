@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/mattketmo/product-sans/gh-pages/stylesheet.css
+https://cdn.jsdelivr.net/gh/mattketmo/product-sans@gh-pages/stylesheet.css
